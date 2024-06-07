@@ -1,6 +1,6 @@
 <h1>Weather API Project</h1>
-<h2>This Project is made using JavaScript</h2>
-<h3>Screenshots :</h3>
+<h2>This project is created using JavaScript</h2>
+<h3>Screenshot :</h3>
 <br/>
 <br/>
 <img src ="https://github.com/Lavkush3844/JavaScript-Project/assets/140130429/a7a9c9a7-d076-44f6-beb8-efdea8d20a75" />
